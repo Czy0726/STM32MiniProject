@@ -1,0 +1,12 @@
+../Core/Src/main.c:33:13:LEDs_Off	8	static
+../Core/Src/main.c:42:13:LED_On	16	static
+../Core/Src/main.c:52:17:Read_Potentiometer	16	static
+../Core/Src/main.c:68:17:Get_Reaction_Time	16	static
+../Core/Src/main.c:76:15:Read_Button	16	static
+../Core/Src/main.c:94:13:Wait_Button_Release	8	static
+../Core/Src/main.c:104:13:Game_Over	16	static
+../Core/Src/main.c:120:5:main	32	static
+../Core/Src/main.c:193:6:SystemClock_Config	88	static
+../Core/Src/main.c:229:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:260:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:297:6:Error_Handler	4	static,ignoring_inline_asm
